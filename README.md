@@ -2,12 +2,12 @@
 This Repository contains my dotfiles and everything else that has to do with my arch linux setup.
 
 + OS: [Arch Linux](https://www.archlinux.org/)
-+ WM: [i3-gaps](https://github.com/Airblader/i3)
-+ Shell: [fish](https://fishshell.com/)
++ WM: [bspwm](https://github.com/baskerville/bspwm)
++ Shell: [zsh](https://www.zsh.org/)
 + Bar: [Polybar](https://github.com/polybar/polybar)
 + Compositor: [Picom](https://github.com/yshui/picom)
-+ Terminal: [Termite](https://github.com/thestinger/termite)
-+ Menu: [Rofi](https://github.com/davatorium/rofi)
++ Terminal: [kitty](https://github.com/kovidgoyal/kitty)
++ Launcher: [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop)
 
 ## How to install Arch Step by Step
 This step by step guide is a quick guide for me to install my configuration on another computer or to reinstall Arch.
