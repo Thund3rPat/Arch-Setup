@@ -163,7 +163,7 @@ pacman -S sudo
 vim /etc/sudoers
 # uncomment this
 ## Uncomment to allow members of group wheel to execute any command
-wheel ALL=(ALL) ALL
+%wheel ALL=(ALL) ALL
 
 gpasswd -a thunderpat wheel
 gpasswd -a thunderpat audio
