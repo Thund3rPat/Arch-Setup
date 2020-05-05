@@ -9,5 +9,6 @@ cp -r config/sxhkd/ ~/.config/
 
 cp config/.zshrc ~/
 cp config/.xinitrc ~/
+cp config/wp.png ~/.config/
 
 echo "Finished! Enjoy your new system!"
