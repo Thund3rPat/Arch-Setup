@@ -26,7 +26,7 @@ yay -S --needed polybar picom-tryone-git nerd-fonts-complete
 wait
 
 echo "Install other useful things"
-yay -S --needed alsa-utils pulseaudio firefox flashplugin icedtea-web kitty betterlockscreen code
+yay -S --needed alsa-utils pulseaudio firefox flashplugin icedtea-web kitty betterlockscreen code feh
 wait
 
 echo "Finished"
