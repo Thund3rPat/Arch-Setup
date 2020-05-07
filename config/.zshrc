@@ -5,3 +5,4 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 alias ls="lsd"
+alias icat="kitty +kitten icat"
