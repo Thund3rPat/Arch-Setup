@@ -6,3 +6,4 @@ source $ZSH/oh-my-zsh.sh
 
 alias ls="lsd"
 alias icat="kitty +kitten icat"
+alias cdg="cd $HOME/go/src/github.com/Thund3rPat/"
